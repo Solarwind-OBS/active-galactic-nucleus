@@ -1,4 +1,4 @@
 # active-galactic-nucleus
 
-Active-Galactic-Nucleus
+Active Galactic Nucleus.
 
